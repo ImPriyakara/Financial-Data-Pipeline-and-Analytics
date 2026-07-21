@@ -1,4 +1,4 @@
-name: Daily Data Update
+name: Daily Data Update-Test
 
 on:
   schedule:
